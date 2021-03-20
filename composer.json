@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Lab8\\Models\\"   : "Models/",
+      "Lab8\\Library\\"  : "Library/"
+    }
+  },
+  "require": {
+    "phpoffice/phpword": "^0.18.1"
+  }
+}
